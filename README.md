@@ -1,2 +1,2 @@
 # movie-ticket-booking
-This is an online movie ticket booking platform.
+This is a simple online movie ticket booking platform using c++.
